@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'FiraCodeVariable', monospace;
+    src: url(./assets/fonts/FiraCode-variable.woff2) format('woff2'),
+        url(./assets/fonts/FiraCode-variable.woff2) format('woff2');
+    font-weight: 1 999;
+}
+
+@font-face {
+    font-family: 'FiraCode', monospace;
+    src: url(./assets/fonts/FiraCode-bold.woff2) format('woff2'), url(./assets/fonts/FiraCode-bold.woff) format('woff');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'FiraCode', monospace;
+    src: url(./assets/fonts/FiraCode-regular.woff2) format('woff2'),
+        url(./assets/fonts/FiraCode-regular.woff) format('woff');
+    font-weight: 400;
+}
