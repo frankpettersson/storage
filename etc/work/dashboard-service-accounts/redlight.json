@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eco-channel-582",
+  "private_key_id": "b270fef3c2ea48ed0f6e3c5ec522cac9b079277b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7pgNNmLot9C7l\n56+rGwKKMf6Hf9UZ2+2opSKZgHdd4EUE69mpf/OladiCwCNHf1SrrHSPcaUfd/U8\nEgagQXXGdWu0uPi0d5/nBWGVxF/LGHLR/Dm1cm2ZSoMzmuEN5fFGUOOK8CHDzfC1\n3nB712faYQJyBG+i4Vu0iQfgvgOVdBTBf0iC/ZFStLw0i6prASJTEX3uoapWTNQw\ng3bPEaMCEMHZMchZQ1nswY3tw4SWelwNImV8gpnNJKW/O6i/aj+ZBcCwTt/jtpH6\n5EgWHUPtd9Q8mcQrT0AvSGw0rYsj31TB3KwRBTsHEKU94+Gx/CMgsHeOxc+geWDc\nUbtZqc7lAgMBAAECggEACD+/C204WgbO/PpXZZ01Wl/iQZCkDJP3eZ9wyvCzzqOq\nRRIdKm9ehZoGk5DgvCbj0Pwuz5N+X8jFNhPQyMC37baBupsbC8vqcpxw8sWENIhp\nm8OLwec63C9DX0RiulquZZnuts/hnBr0hvo1Vaxde2MiWWLKiY2Am4oel4mi3LH/\nPfcSF3zo3GVVjsPB3pL6S3QOPHp4rAehxhYWk/WMmwf8jNL4fC+DFQ/PnSw1FcWs\n31uCaoAROV6ni0zn0ZQ9FltNv/lsL4JvUBxLsSdSuZ/y2V0dQAtn6frfhdNtHTiy\nKp24UHbBQXXUbx9h/fY6dNhZy89Kqn9T7SzFztqmQQKBgQD5GZm6VixP6m0yxDhf\n+b8unlk73ONbGZeFKFIeMs2ZN4SiH73ioZzwxusTtrNlsCAqI6wzKb93ToRxA0il\njGcNG7EqjJV1pKS+dNj9P+nxnZzqPXI8tF/i+m6PDLx5I0QPy0MFsQINqK3LeaXj\ntT9neGmZncWDFflzQRxMUMEvUQKBgQDA2KbnyH8eov9Mpq2xIgKE3JX8iO2Rkc6m\nlQuFvv96gB7doYDultyXIBJOw9R5W+7ME+bjgV6pKiHyRbpmO6Bqrw5hEQx7qyec\nvRT+0rvReO/A6qGnhzoCLnjgBrabaH+ZngTRofBdPnp/C/eEfNnXX9/pkUsTPw9O\nrvZB1tdJVQKBgHohdyHJBkjYY1m0ov9Lb9TnhlC3aDFORt/eeQSdW/h3I+xpK6xm\nGJBktvUfaq28wMhoXRFosptIP985APFJ+WyP2zlFXDIl2zAWEh14rLbt0/V00wG4\nXhrnNjWkxPOPutsTiXTM6HjR7wQITLFsN/3/J6dNl31B1OARWFKCdXVBAoGAb6lC\nwzSRfnDMuFpOeiECKmH7KpUyUbaGXGgymsej8A9dT+Ei4YNSyOKWFytGzNpRY7Mm\nXpba88Jkk36SVn2x/fPMtKGFg9nvfs7w6Dem7rxCvoZdAb7H9NlpvfXFKCkSsSUR\nDzzgC22Qyh1ovTr5e76UzQ4G1WcO+vVNu4Oldl0CgYEA5CA0pnPfweIkGRTssG/d\nkPGjapYygOoMgqXaA4CWUvNevwvreEhQ+C6bE0qfzXnmpzh5u6vJBNExRJmpvfbE\nCsWLm81POTQEKzfKlAiZy0kQeFDzIPmahlvGRLC6tUiHh9amkVBpQpm/Oq+q5Kcm\nAwraDbVm8k8H6zF/LeUyDD0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "wc-dashboard-redlight@eco-channel-582.iam.gserviceaccount.com",
+  "client_id": "107564191536635467876",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wc-dashboard-redlight%40eco-channel-582.iam.gserviceaccount.com"
+}

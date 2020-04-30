@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eco-channel-582",
+  "private_key_id": "b0879310e563a9db4bd1210b1df53721c363b451",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDB7bjE+KKYoKSk\nhE6sHZ0ZrDrTi/VXHjyjDZ1ZX9p2V1hhmkjC869WHg18RrWQZUHbBObcGLzvIGfW\n+Ys4nNQW6UCa9yv0z/AFXNpIw5ZVzVkWCx/qLgYtUQL0O967dKuKcjyvXxi1ViKL\nW1c3bdOEPRXxtsqkXCT+aLAxUjharKSS5BZKkI74U8rXEmlwZ5Meuexm1zBTzW6C\nGLjkC1eeo4XzE8860gQajZeNO5eoBFqjwx9nQIRrg7hOcZI458sTV15ZeZkmVKDu\ng3Rugt0Sh1C8YDURMd6vPk9qZ3OSpPaJSjINKhy+Qz3A4sbLJmYDFzlsvFHqmapB\nlJLRVi9rAgMBAAECggEAETARFsAUpSNjxEMHuAB96ocVxacbbQe8hxUPU5sHwUJX\njnr+pOy1JxRNzKx1riETV6aVEX/NywHbwjVmzfM0Zv1wYOu0RSPi2Y7Tt+xB2EP1\nd9svjnFa0cxizyO5R3L9Oy2JzF9I0NWcBS7oyXxd6VQCrGQvjKawDq5Xo19uqDaK\naX9A1X/bQ782CArXEDr5sCYZPeH1O/tICTJE8tj3fWVL/cczGrpS+6nxCyg38+30\nP5aFEpRnwIoOk7NCGcSgSvXvfZqds4epSEwQBONnpseOLSXKGSOgqMRos0dEfhnZ\nGFi+jJUEN4ei9HB2WV0LweLMlMR1u4UMyRHidqKvsQKBgQDqarRLdVzLkOMCPrBR\n6sFgLvHssOVEZPaT8DeXLfXiW8Y3+p6B2t7xhxOKXccoEnqOVq6GftvlrQYnFkdw\n7OTR0CtM2KOazgfTyLc7LQ/oeBIHPm3zwBkn8U6LdcMt0HJ4x1tjPBzumRk31/Nc\nxyjJTrZ6h8A4FCayvZj9RvkEcQKBgQDTyLHLSNH5lnIjOI0lmbNssHUOwzls6pA/\nXdZfFAel8j3fzlDQj/LSJDHk8SrqrKip4MImqlEUuxryssMHfaZ2B7qreMQKz62/\nuqmLyP/9CQdvrC5FruWNttwcNEj2bq9uNo7Xv8WXi2YS3TcheoIt7eQhOBrzyACr\n1hsd/ZvvmwKBgQCNRZEyiKBL7h1hFPad56RymtghlNoWxeH0diiKa6BrsnNa+Sbd\ni1IgrQ8RrEKB2+EQNx0m4P0VBZlXpQ2Y+KtN5u6xeT3f5ZrB/4ytlRKpPvNeejk5\nVOPUNpDnaykdSyoxr7Nbsrac9JdGGFcJ6tyhtVYzsewd38cSoUC6IzOfgQKBgF/K\nuDiVsHvvA6NQse8e7VwtGFVcEj5kfmha/lq1CZySzE/N1xnu8ksAmhzOxLWu8P8d\nrVOl19TDqLW8C6D4wXFDn7htgGbPduxw9r1GZhtCmT12qNtV93i5DCgpshLdD7aP\nMN7/W9Vm9P11V7lp2zYBEx2/bdl0TnFq/4r6Ki0fAoGAXvX9z6suzVUgXI9tCFet\nqVsaY4W83R8M7SQez/5CQ7PnNZKFgHbzaXhkIHG5A2i8eCcI9YiuXnngekdqK5fy\ntHQ62iqgzT4oGeQclNhQYiGL4DIYrwImwNTDBaxO4+CFCFy6KnEZL3BEVcAPzAwn\ngTrF7u/Hq67W3HLFtQROEQY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tankbar-wc-dashboard@eco-channel-582.iam.gserviceaccount.com",
+  "client_id": "104686501794338857959",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tankbar-wc-dashboard%40eco-channel-582.iam.gserviceaccount.com"
+}
